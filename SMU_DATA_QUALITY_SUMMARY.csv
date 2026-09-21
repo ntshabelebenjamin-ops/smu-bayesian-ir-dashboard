@@ -1,0 +1,9 @@
+check,value
+FTEN raw rows,733
+Unique valid FTEN students,649
+Questionnaire raw responses,733
+Credits raw university records,7454
+FTEN students with observed HEMIS outcomes,246
+FTEN students without observed HEMIS outcomes,403
+Observed >=75% success,229
+Observed <75%,17
